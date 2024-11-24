@@ -49,7 +49,7 @@ ID from the short URL is: 12345
 
 ## 🤝 Contributing
 We welcome contributions to improve this project!  
-Before contributing, please refer to the [LICENSE](LICENSE) file for guidelines.
+Before contributing, please refer to the [LICENSE](https://github.com/Purohit1999/URL-Shortener/blob/main/LICENSE) file for guidelines.
 
 ### 👤 Contact
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/param-p-370616310/)
