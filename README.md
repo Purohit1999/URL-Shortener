@@ -52,8 +52,8 @@ We welcome contributions to improve this project!
 Before contributing, please refer to the [LICENSE](https://github.com/Purohit1999/URL-Shortener/blob/main/LICENSE) file for guidelines.
 
 ### 👤 Contact
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/param-p-370616310/)
-- **GitHub**: [Your GitHub Profile](https://github.com/Purohit1999)
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/param-p-370616310/)
+- **GitHub**: [My GitHub Profile](https://github.com/Purohit1999)
 
 ## ⭐ Show Your Support
 If you like this project or found it helpful, please consider giving it a **⭐ star** on GitHub. It motivates us to improve and build more projects like this!
